@@ -1,0 +1,31 @@
+.Novruz {
+  border: 2px solid red;
+  height: 50vh;
+  width: 50vw;
+  margin: 15vh 20vw;
+}
+h4 {
+  text-align: center;
+  padding-top: 40px;
+  font-size: 35px;
+  color: red;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 45px;
+  text-align: center;
+  color: blue;
+}
+
+h3 {
+  text-align: center;
+}
+
+span {
+  color: red;
+}
